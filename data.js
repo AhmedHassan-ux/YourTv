@@ -33,5 +33,12 @@ const movies = [
         year: 2008,
         director: "Christopher Nolan",
         background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    }
+    },
+    {
+        id: 3,
+        title: "The Dark Knight",
+        year: 2008,
+        director: "Christopher Nolan",
+        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+    },
 ];
