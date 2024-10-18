@@ -4,167 +4,83 @@ const movies = [
         title: "Inception",
         year: 2010,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
     },
     {
         id: 2,
         title: "Interstellar",
         year: 2014,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     },
     {
         id: 3,
         title: "The Dark Knight",
         year: 2008,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-       {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
     {
         id: 1,
         title: "Inception",
         year: 2010,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
     },
     {
         id: 2,
         title: "Interstellar",
         year: 2014,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     },
     {
         id: 3,
         title: "The Dark Knight",
         year: 2008,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-       {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-       {
-        id: 1,
-        title: "Inception",
-        year: 2010,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 2,
-        title: "Interstellar",
-        year: 2014,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-       {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
     {
         id: 1,
         title: "Inception",
         year: 2010,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
     },
     {
         id: 2,
         title: "Interstellar",
         year: 2014,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     },
     {
         id: 3,
         title: "The Dark Knight",
         year: 2008,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     },
-       {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
+    {
+        id: 1,
+        title: "Inception",
+        year: 2010,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg"
+    },
+    {
+        id: 2,
+        title: "Interstellar",
+        year: 2014,
+        director: "Christopher Nolan",
+        background: "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
     },
     {
         id: 3,
         title: "The Dark Knight",
         year: 2008,
         director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
-    },
-    {
-        id: 3,
-        title: "The Dark Knight",
-        year: 2008,
-        director: "Christopher Nolan",
-        background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
+        background: "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
     }
 ];
