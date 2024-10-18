@@ -41,7 +41,6 @@ const movies = [
         director: "Christopher Nolan",
         background: "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIIiYr9DUWFoBIMVwX10gM7XpuV.jpg"
     },
-    const movies = [
     {
         id: 1,
         title: "Inception",
