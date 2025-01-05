@@ -86,5 +86,47 @@
       }
     ],
     "custom_link": "https://w5.gameshop4u.com/embed-embed-umo6mft9uw36.html"
+  },
+  {
+    "id": 1160956,
+    "original_language": "zh",
+    "release_date": "2024-10-01",
+    "backdrop_path": "/u7AZ5CdT2af8buRjmYCPXNyJssd.jpg",
+    "poster_path": "/8Dv1AhpOiHSxV1IlxdF2N6z52Jn.jpg",
+    "genres": [
+      {
+        "id": 28,
+        "name": "حركة"
+      },
+      {
+        "id": 35,
+        "name": "كوميديا"
+      }
+    ],
+    "title": "خطة الباندا",
+    "overview": "فيلم أكشن كوميدي حول حماية الباندا",
+    "cast": [
+      {
+        "name": "جاكي شان",
+        "profile_path": "/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+      },
+      {
+        "name": "Wei Xiang",
+        "profile_path": "/j1XqYkSGoRHfBOH59nTOnv7DcRn.jpg"
+      },
+      {
+        "name": "Han Yanbo",
+        "profile_path": "/anfEMOmBSFXuZJ5jPCdcPIrObSl.jpg"
+      },
+      {
+        "name": "Shi Ce",
+        "profile_path": "/yRBXOk6GMuzDCrIK85AjZn48o1y.jpg"
+      },
+      {
+        "name": "Andy Friend",
+        "profile_path": "/gvSXc5UDHc9JQwmHKG7Eh9V3AHX.jpg"
+      }
+    ],
+    "custom_link": "https://w.gamehub.cam/embed-9gz07fba4u7f.html"
   }
 ];
